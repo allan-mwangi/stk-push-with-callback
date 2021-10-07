@@ -12,3 +12,5 @@ Add your consumer key and consumer secret then specify the callback url to be us
 
 A live version is available at https://www.creativecomputersolutions.co.ke/mpesa complete with the callback response from Daraja API
 
+The version uses the Daraja API Sandbox paybill and simulates a transaction of 1 shilling which is reversible by Safaricom
+
